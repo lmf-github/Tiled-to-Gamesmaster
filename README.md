@@ -1,7 +1,7 @@
 Test of idea of one way to convert Tiled outputs for use in Gamesmaster on the Sam Coupe
 
 
-See the Explanation.docx file for an overview of the code
+See the Explanation.pdf file for an overview of the code
 
 The Tiled files and python script are included.
 Also included is a .mgt disk image that can be used in Sim Coupe.
